@@ -1,6 +1,8 @@
 This script allows you to pause/unpause SelfControlApp (https://github.com/SelfControlApp/selfcontrol/). It works by running the blocking script every minute for a duration of 1 minute and allowing you to stop the next blocking duration. 
 
 # Installation
+Follow the instructions on SelfControlApp (https://github.com/SelfControlApp/selfcontrol/) to install the application
+
 Download this repository using git clone
 
 Create and save a blocklist
