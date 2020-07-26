@@ -1,0 +1,3 @@
+*.selfcontrol
+.vscode
+nohup.out
