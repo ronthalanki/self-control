@@ -9,7 +9,7 @@ def _edit_file(x):
     file.close()
 
 
-def main(duration: int):
+def main(duration):
     _edit_file("0")
     time.sleep(duration * 60)
     _edit_file("1")
